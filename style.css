@@ -46,3 +46,31 @@ h2{
     
     
 }
+
+h4{
+  background-color: rgb(148, 231, 213);
+  font-family: cursive ;
+  font-size: large;
+}
+
+ol li a {
+  color: black;
+  background-color: bisque;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+ol li{
+  background-color: bisque;
+  font-size: xx-large;
+}
+
+h5{
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: darkseagreen;
+}
+
+h6{
+  font-size: x-large;
+}
